@@ -1,0 +1,50 @@
+[
+  {
+    "id": "01",
+    "nombre": "Romulo",
+    "edad": 3,
+    "img": "./img/pet01.jpg"
+  },
+  {
+    "id": "02",
+    "nombre": "Timon",
+    "edad": 5,
+    "img": "./img/pet02.jpg"
+  },
+  {
+    "id": "03",
+    "nombre": "Vitto",
+    "edad": 2,
+    "img": "./img/pet03.jpg"
+  },
+  {
+    "id": "04",
+    "nombre": "Cleo",
+    "edad": 4,
+    "img": "./img/pet04.jpg"
+  },
+  {
+    "id": "05",
+    "nombre": "Misha",
+    "edad": 3,
+    "img": "./img/pet05.jpg"
+  },
+  {
+    "id": "06",
+    "nombre": "Fizzu",
+    "edad": 2,
+    "img": "./img/pet06.jpg"
+  },
+  {
+    "id": "07",
+    "nombre": "Cairo",
+    "edad": 3,
+    "img": "./img/pet07.jpg"
+  },
+  {
+    "id": "08",
+    "nombre": "Django",
+    "edad": 4,
+    "img": "./img/pet08.jpg"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "01",
+    "nombre": "Correa retractil",
+    "img": "img/prod-03.png",
+    "descripcion": "Cuenta con un sistema de ajuste automatico que proporciona mayor seguridad y comodidad. ",
+    "precio": 5126
+  },
+  {
+    "id": "02",
+    "nombre": "Royal Canin 15kg",
+    "img": "img/prod-01.png",
+    "descripcion": "Cuenta con un sistema de ajuste que automatico que proporciona mayor seguridad y comodidad, ademas de estar fabricado con materiales de alta calidad. ",
+    "precio": 5126
+  },
+  {
+    "id": "03",
+    "nombre": "Purina Excellent 5kg",
+    "img": "img/prod-01.png",
+    "descripcion": "Alimento balanceado de extrema calidad para mascotas en pleno crecimiento, nutricion abalada internacionalmente.",
+    "precio": 3215
+  },
+  {
+    "id": "04",
+    "nombre": "Pipeta Power Ultra",
+    "img": "img/prod-04.png",
+    "descripcion": "Antipulgas y  garrapatas para mascotas de hasta 8kg",
+    "precio": 2560
+  },
+  {
+    "id": "05",
+    "nombre": "Shampoo vitalizador",
+    "img": "img/prod-01.png",
+    "descripcion": "Hecho con algas que proporcionan un brillo y suavidad especial. ",
+    "precio": 1035
+  },
+  {
+    "id": "06",
+    "nombre": "Peine ultrasuave",
+    "img": "img/prod-08.png",
+    "descripcion": "Cuenta con un sistema de ajuste que automatico que proporciona mayor seguridad y comodidad, ademas de estar fabricado con materiales de alta calidad. ",
+    "precio": 2699
+  },
+  {
+    "id": "07",
+    "nombre": "Moises",
+    "img": "img/prod-05.png",
+    "descripcion": "Maxima comodidad y duracion, varios tamaños en stock. ",
+    "precio": 6200
+  },
+  {
+    "id": "08",
+    "nombre": "Cucha Plastica",
+    "img": "img/prod-07.png",
+    "descripcion": "Cuenta con un sistema de ajuste que automatico que proporciona mayor seguridad y comodidad, ademas de estar fabricado con materiales de alta calidad. ",
+    "precio": 12450
+  },
+  {
+    "id": "09",
+    "nombre": "Campera Impermeable",
+    "img": "img/prod-06.png",
+    "descripcion": "Cuenta con un sistema de ajuste que automatico que proporciona mayor seguridad y comodidad, ademas de estar fabricado con materiales de alta calidad. ",
+    "precio": 5740
+  },
+  {
+    "id": "10",
+    "nombre": "Alimento humedo 340gr",
+    "img": "img/prod-02.png",
+    "descripcion": "Cuenta con un sistema de ajuste que automatico que proporciona mayor seguridad y comodidad, ademas de estar fabricado con materiales de alta calidad. ",
+    "precio": 840
+  }
+]
